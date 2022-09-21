@@ -7,6 +7,6 @@ Check out my Github Stats 👇
  <div>
   <a href="https://github.com/lancaluis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lancaluis&count_private=true&show_icons=true&&theme=prussian"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancaluis&layout=compact&langs_count=7&theme=prussian"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancaluis&layout=compact&langs_count=8&theme=prussian"/>
   </a>
 </div>
