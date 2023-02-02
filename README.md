@@ -1,3 +1,3 @@
-## Hi! I'm Luís 🤪 
+## Welcome! Bem vindo! Willkommen 🤪
 
-Front-End Developer passionate about UX/UI Design, always delivering user friendly interfaces thinking about E-accessibility. Since 2019 I have been working from non-conventional locations, experiencing different cultures and looking for new life experiences.
+Hi! I'm Luís, a Digital Nomad who works as Front-end Developer since 2018, my current focus is to create interactive and responsive layouts from scratch, delivering user friendly interfaces thinking about E-accessibility, SEO and Analytics. I also like to study UX/UI Design, although we create software for humans, right?
