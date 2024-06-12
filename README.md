@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancaluis&layout=compact&theme=prussian" width="350px" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api?username=lancaluis&show_icons=true&include_all_commits=true&theme=prussian" alt="lancaluis Github stats" width="400px" height="150px" />
 </div>
