@@ -3,17 +3,10 @@
 
 <p>When I'm not wrangling pixels, my heart belongs to exploring new places and connecting with people from all over. I'm passionate about volunteer exchange, music, sports, and all things tech. But let's focous on my career:</p>
 
-<h4>I've been working as a Front-End Engineer since 2018 and here are some of the Technologies I master</h4>
-<div"><code>Javascript && CSS && React.js</code></div>
-
-<h4>Technologies I have some experience with</h4>
-<div><code>Typescript && Next.js && Angular.js && React Native</code></div>
-
-<h4>Technologies I've been studying</h4>
-<div"><code>Swift && Swift UI</code></div>
-
-<h4>Technologies I'm interested</h4>
-<div"><code>Blockchain && Web 3</code></div>
+- 🧑‍💻 Senior Frontend Engineer with over 7 years of experience.
+- 💻 Extensive expertise in <code>JavaScript, React.js, Next.js, and TypeScript</code>
+- 📈 Currently focusing on **SEO and Analytics**.
+- 🌐 Passionate about learning Blockchain and Web 3.0 technologies.
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites or hybrid positions outside Brazil</p>
@@ -34,7 +27,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancaluis&layout=compact&theme=prussian" width="350px" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lancaluis&show_icons=true&include_all_commits=true&theme=prussian" alt="lancaluis Github stats" width="400px" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lancaluis&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="lancaluis github stats" width="400px" height="150px" />
 </div>
