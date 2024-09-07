@@ -10,7 +10,10 @@
 <div><code>Typescript && Next.js && Angular.js && React Native</code></div>
 
 <h4>Technologies I've been studying</h4>
-<div"><code>Python && GraphQL && Kotlin</code></div>
+<div"><code>Swift && Swift UI</code></div>
+
+<h4>Technologies I'm interested</h4>
+<div"><code>Blockchain && Web 3</code></div>
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites or hybrid positions outside Brazil</p>
