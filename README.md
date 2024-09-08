@@ -7,6 +7,7 @@
 - 💻 Extensive expertise in <code>JavaScript, React.js, Next.js, and TypeScript</code>
 - 📈 Currently focusing on **SEO and Analytics**.
 - 🌐 Passionate about learning Blockchain and Web 3.0 technologies.
+- 🎮 Drone pilot! Because I love looking at the world with different eyes
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites or hybrid positions outside Brazil</p>
