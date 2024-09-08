@@ -10,7 +10,7 @@
 - 🎮 Drone pilot! Because I love looking at the world with different eyes
 
 <h4>Hire me!</h4>
-<p>Open for remote opportunites or hybrid positions outside Brazil</p>
+<p>Open for remote opportunites</p>
 <p>
     <a
     href="https://web.whatsapp.com/send?phone=+5511993028124"
