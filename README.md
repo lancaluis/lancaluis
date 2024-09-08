@@ -9,6 +9,9 @@
 - 🌐 Passionate about learning Blockchain and Web 3.0 technologies.
 - 🎮 Drone pilot! Because I love looking at the world with different eyes
 
+<h4>I just started my company!</h4>
+Explore the world at your own pace: https://www.devagari.com
+
 <h4>Hire me!</h4>
 <p>Open for remote opportunites</p>
 <p>
