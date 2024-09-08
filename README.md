@@ -26,8 +26,3 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<div align=left>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancaluis&layout=compact&theme=prussian" width="350px" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lancaluis&show_icons=true&include_all_commits=true&count_private=true&theme=prussian" alt="lancaluis github stats" width="400px" height="150px" />
-</div>
