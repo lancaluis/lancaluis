@@ -5,18 +5,18 @@
 
 - 🧑‍💻 Senior Frontend Engineer with over 7 years of experience.
 - 💻 Extensive expertise in <code>JavaScript, React.js, Next.js, and TypeScript</code>
-- 📈 Currently focusing on **SEO and Analytics**.
+- 📈 Currently focusing on **SEO, Analytics and Node.js**.
 - 🌐 Passionate about learning Blockchain and Web 3.0 technologies.
 - 🎮 Drone pilot! Because I love looking at the world with different eyes
 
-<h4>I just started my company!</h4>
+<h4>I just started my travel blog!</h4>
 Explore the world at your own pace: https://www.devagari.com
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites</p>
 <p>
     <a
-    href="https://web.whatsapp.com/send?phone=+5511993028124"
+    href="https://web.whatsapp.com/send?phone=+5511999409575"
     alt="WhatsApp"
     target="blank"
   >
