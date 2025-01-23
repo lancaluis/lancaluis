@@ -1,16 +1,16 @@
 <h1>Hey 👋, I'm Luís</h1>
 <h3>A Brazilian Software Engineer turned "solo" traveler!</h3>
 
-<p>When I'm not wrangling pixels, my heart belongs to exploring new places and connecting with people from all over. I'm passionate about volunteer exchange, music, sports, and all things tech. But let's focous on my career:</p>
+<p>When I'm not wrangling pixels, my heart belongs to exploring new places and connecting with people from all over. I'm passionate about work exchange, music, nature, and all things tech. But let's focous on my career:</p>
 
-- 🧑‍💻 Senior Frontend Engineer with over 7 years of experience.
+- 🧑‍💻 Senior Frontend Engineer with over 7 years of experience
 - 💻 Extensive expertise in <code>JavaScript, React.js, Next.js, and TypeScript</code>
-- 📈 Currently focusing on **SEO, Analytics and Node.js**.
-- 🌐 Passionate about learning Blockchain and Web 3.0 technologies.
+- 📈 Currently focusing on **React Native and Node.js**
+- 🌐 Passionate about learning UX Design
 - 🎮 Drone pilot! Because I love looking at the world with different eyes
 
-<h4>I just started my travel blog!</h4>
-Explore the world at your own pace: https://www.devagari.com
+<h4>My new project is coming!</h4>
+Speak like them, talk like a local: https://www.vokabs.com
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites</p>
