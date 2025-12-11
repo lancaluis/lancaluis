@@ -5,12 +5,9 @@
 
 - 🧑‍💻 Senior Frontend Engineer with over 7 years of experience
 - 💻 Extensive expertise in <code>JavaScript, React.js, Next.js, and TypeScript</code>
-- 📈 Currently focusing on **React Native and Node.js**
+- 📈 Currently focusing on **Digital Products Management**
 - 🌐 Passionate about learning UX Design
 - 🎮 Drone pilot! Because I love looking at the world with different eyes
-
-<h4>My new project is coming!</h4>
-Speak like them, talk like a local: https://www.vokabs.com
 
 <h4>Hire me!</h4>
 <p>Open for remote opportunites</p>
